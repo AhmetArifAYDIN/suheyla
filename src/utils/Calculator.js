@@ -65,7 +65,7 @@ export const calculate = (kategori, kisiSayisi) => {
 
   return {
     success: true,
-    message: `Sonuç: ${resultMessage}`,
+    message: `${resultMessage}`,
     data: diziSon, // Detaylı dağılım verisi
   };
 };
