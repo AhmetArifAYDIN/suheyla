@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="container-fluid container">
         <a className="navbar-brand" href="/">
           <img
-            src="/logo.svg" // Public klasöründeki SVG'yi böyle çağırabilirsiniz
+            src="/logo.svg" 
             alt="Logo"
             width="30"
             height="24"
