@@ -16,10 +16,10 @@ const Form = ({
         onChange={(e) => setKategori(Number(e.target.value))}
       >
         <option value="0">Hesaplanacak hatmi seçin</option>
-        <option value="1">İhlas (100)</option>
-        <option value="2">Tevhid (72000)</option>
-        <option value="3">Ayet-el Kürsi (313)</option>
-        <option value="4">Salat-ı Nariye (4444)</option>
+        <option value="1">İhlâs-ı Şerif (100)</option>
+        <option value="2">Tevhîd (72000)</option>
+        <option value="3">Âyetül Kürsi (313)</option>
+        <option value="4">Salât-ı Nâriye (4444)</option>
       </select>
 
       <input
