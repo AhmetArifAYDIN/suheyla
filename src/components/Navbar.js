@@ -12,7 +12,7 @@ const Navbar = () => {
             height="24"
             className="d-inline-block align-text-top"
           />
-          suheyla
+          vird
         </a>
       </div>
     </nav>
