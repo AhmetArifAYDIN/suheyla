@@ -10,10 +10,10 @@ const App = () => {
   const schemaMarkup = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    name: "suheyla - Hatim Hesaplama Aracı",
+    name: "hizip - Hatim Hesaplama Aracı",
     description:
       "Tevhid, İhlas ve diğer hatimlerin okuma sayısını düzenlemek için geliştirilmiştir. Belirlenen toplam okuma sayısını kullanarak, katılımcı sayısına göre her bireyin okuması gereken miktarı otomatik olarak hesaplayabilirsiniz.",
-    url: "https://suheyla.netlify.app",
+    url: "https://hizip.netlify.app",
   };
 
   return (
@@ -21,12 +21,12 @@ const App = () => {
       {/* SEO Başlık ve Meta Etiketleri */}
       <Helmet>
         <meta charSet="UTF-8" />
-        <title>suheyla - Hatim Hesaplama Aracı</title>
+        <title>hizip - Hatim Hesaplama Aracı</title>
         <meta
           name="description"
           content="Tevhid, İhlas ve diğer hatimlerin okuma sayısını düzenlemek için geliştirilmiştir. Belirlenen toplam okuma sayısını kullanarak, katılımcı sayısına göre her bireyin okuması gereken miktarı otomatik olarak hesaplayabilirsiniz."
         />
-        <meta property="og:title" content="suheyla - Hatim Hesaplama Aracı" />
+        <meta property="og:title" content="hizip - Hatim Hesaplama Aracı" />
         <meta
           property="og:description"
           content="Tevhid, İhlas ve diğer hatimlerin okuma sayısını düzenlemek için geliştirilmiştir. Belirlenen toplam okuma sayısını kullanarak, katılımcı sayısına göre her bireyin okuması gereken miktarı otomatik olarak hesaplayabilirsiniz."
